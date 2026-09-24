@@ -4,7 +4,7 @@ To do this by yourself. You will need
 * your regular clang
 * time (two separate mesa builds)
 
-Other supported mali (my precompiled .so files)
+Other supported mali (my precompiled NDK r30 clang .so files)
 * Midgard: T600, T620, T720, T760, T820, T830, T860, T880
 * Bifrost: G31, G51, G52, G52 r1, G71, G72, G76
 * Valhall: G57, G78 ← din, G610, G310 (v1–v5)
